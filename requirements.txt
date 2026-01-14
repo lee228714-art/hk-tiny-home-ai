@@ -1,0 +1,6 @@
+Last login: Wed Jan 14 18:49:22 on ttys000
+hoho@Damn-Damn ~ % cat requirements.txt
+hoho@Damn-Damn ~ % cd ~
+hoho@Damn-Damn ~ % open -e requirements.txt
+hoho@Damn-Damn ~ % 
+
